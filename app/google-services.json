@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "680179519672",
+    "project_id": "impfirebase-156ca",
+    "storage_bucket": "impfirebase-156ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680179519672:android:3becff24d0ec5b629a644d",
+        "android_client_info": {
+          "package_name": "com.example.impfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnirSH9b9q9F_wFuxLSJOoK-BOC0z5ra0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
